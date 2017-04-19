@@ -10,9 +10,9 @@ url: "http://jetstreamvelocity.github.io" # the base hostname & protocol for you
 locale: en_GB
 
 ### Personal info and site tools info:
-twitter_username: jetstreamvelocity
-github_username:  jetstreamvelocity
-disqus_shortname: jetstreamvelocity
+twitter_username: JStreamVelocity
+github_username:  JetStreamVelocity
+disqus_shortname: JetStreamVelocity
 favicon:     "/images/favicon.ico"
 aboutme: Hope you find my blog useful. # these are shown on aboutme-sidebar.
 aboutme_photo: https://goo.gl/8Nif4y # your photo.
