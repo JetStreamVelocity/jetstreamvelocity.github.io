@@ -9,8 +9,8 @@
 }
 
 .site-title {
-  font-size: 48px;
-  line-height: 56px;
+  font-size: 2.4em;
+  line-height: 2.4em;
   letter-spacing: -1px;
   margin-bottom: 0;
   text-align:center;
@@ -26,8 +26,8 @@
 }
 
 .site-meta{
-  font-size: 20px;
-  line-height:56px;
+  font-size: 1.4em;
+  line-height:2.4em;
   letter-spacing: -1px;
   margin-bottom: 0;
   text-align:center;
@@ -161,7 +161,7 @@
 
 .post-link {
   display: block;
-  font-size: 38px;//42px;
+  font-size: 2.25em;//38px;//42px;
 }
 
 
@@ -180,12 +180,12 @@
 }
 
 .post-title {
-  font-size: 38px;//42px;
+  font-size: 2.25em;//38px;//42px;
   letter-spacing: -1px;
   line-height: 1;
 
   @include media-query($on-laptop) {
-    font-size: 36px;
+    font-size: 1.5em;
   }
 }
 
@@ -217,37 +217,37 @@
   p { padding:$spacing-unit/5 0; }
   //  margin-bottom: $spacing-unit;
   h1 {
-    font-size: 24px;
+    font-size: 2em;
     line-height:1em;
     @include media-query($on-laptop){
-      font-size: 24px;
+      font-size: 1.5em;
     }
 
   }
   h2 {
-    font-size: 22px;
+    font-size: 1.75em;
     line-height:1em;
 
     @include media-query($on-laptop) {
-      font-size: 22px;
+      font-size: 1.4em;
     }
   }
 
   h3 {
-    font-size: 20px;
+    font-size: 1.5em;
     line-height:1em;
 
     @include media-query($on-laptop) {
-      font-size: 20px;
+      font-size: 1.3em;
     }
   }
 
   h4 {
-    font-size: 18px;
+    font-size: 1.25em;
     line-height:1em;
 
     @include media-query($on-laptop) {
-      font-size: 18px;
+      font-size: 1.2em;
     }
   }
 }
