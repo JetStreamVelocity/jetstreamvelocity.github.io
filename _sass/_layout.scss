@@ -9,8 +9,8 @@
 }
 
 .site-title {
-  font-size: 48px;
-  line-height: 56px;
+  font-size: 2.4em;
+  line-height: 2.4em;
   letter-spacing: -1px;
   margin-bottom: 0;
   text-align:center;
@@ -26,8 +26,8 @@
 }
 
 .site-meta{
-  font-size: 20px;
-  line-height:56px;
+  font-size: 1.4em;
+  line-height:2.4em;
   letter-spacing: -1px;
   margin-bottom: 0;
   text-align:center;
@@ -185,7 +185,7 @@
   line-height: 1;
 
   @include media-query($on-laptop) {
-    font-size: 36px;
+    font-size: 1.5em;
   }
 }
 
@@ -220,7 +220,7 @@
     font-size: 2em;
     line-height:1em;
     @include media-query($on-laptop){
-      font-size: 36px;
+      font-size: 1.5em;
     }
 
   }
@@ -229,7 +229,7 @@
     line-height:1em;
 
     @include media-query($on-laptop) {
-      font-size: 28px;
+      font-size: 1.4em;
     }
   }
 
@@ -238,7 +238,7 @@
     line-height:1em;
 
     @include media-query($on-laptop) {
-      font-size: 22px;
+      font-size: 1.3em;
     }
   }
 
@@ -247,7 +247,7 @@
     line-height:1em;
 
     @include media-query($on-laptop) {
-      font-size: 18px;
+      font-size: 1.2em;
     }
   }
 }
