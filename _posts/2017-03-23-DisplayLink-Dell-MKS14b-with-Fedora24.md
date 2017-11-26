@@ -17,6 +17,9 @@ Here's a little teaser before we look at the details:
 
 ![image-title](https://goo.gl/ujuXR4?.png){:class="github"}
 
+
+[![image-title](https://goo.gl/ujuXR4?.png){:class="github"}](https://goo.gl/ujuXR4?.png){:style="border-width:0;"}
+
 OS - Fedora 24 running kernel 4.9.13-101.fc24.x86_64
 
 Dock used: [Dell MKS14b](http://accessories.euro.dell.com/sna/productdetail.aspx?c=uk&l=en&s=bsd&cs=ukbsdt1&sku=452-bbkd)
