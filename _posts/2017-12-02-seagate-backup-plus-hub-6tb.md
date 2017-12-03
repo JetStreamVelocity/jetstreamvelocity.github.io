@@ -143,3 +143,10 @@ SMART support is: Available - device has SMART capability.
 SMART support is: Enabled
 Power mode was:   IDLE_A
 ```
+
+At a different time
+```
+[jetstream@dellgx620 ~]$ sudo smartctl -d sat -i -n standby /dev/sdb
+....
+Power mode was:   IDLE_B
+```
