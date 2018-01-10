@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: Xiaomi Air 12
+title: Xiaomi Air 12 Hardware
 excerpt: Hardware of Xiaomi Air 12 reported by Fedora 26
 categories: Articles
 tags:
