@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: Xiaomi Air 12
+title: Xiaomi Air 12 Summary
 excerpt: Summary page for Xiaomi Air 12 investigations
 categories: Articles
 tags:
@@ -15,11 +15,24 @@ comments: true
 
 # Introduction
 
-My purchase of [Xiaomi Air 12 laptop from Gearbest](https://www.gearbest.com/laptops/pp_416105.html) arrived recently. Have been checking out this laptop lately. 
+My purchase of [Xiaomi Air 12 laptop from Gearbest](https://www.gearbest.com/laptops/pp_416105.html) arrived recently. Have been checking out this laptop lately.
 
 Started with backing up the licence details, drivers. Converted the Windows to English version. Took a full drive backup image in case I need to use the Windows in future. Then wiped the hard drive and installed Fedora 26 Workstation.
 
+So far, it has been a very smooth Fedora experience on this laptop.
+
+# Pros and Cons at a glance
+
+## Pros
+* Good battery life
+* Good Linux experience so far
+
+## Cons
+* It appears the Air12 (only negotiates 20V/2A Power Delivery profile](https://www.igeekphone.com/xiaomi-mi-notebook-air-adapter-charging-and-compatibility-review/)
+
 # Specifications
+
+Lifted from [Gearbest item description](https://www.gearbest.com/laptops/pp_416105.html)
 
 * Xiaomi Air 12 Laptop  -  M3-7Y30 4GB + 128GB  SILVER
 * 12.5 inch Windows 10 Home Chinese Version 7th Gen Intel Core m3-7Y30 Processor
@@ -59,4 +72,4 @@ You can connect the device to an HDTV or high-definition monitor to set up two s
 
 # Fedora 26 Workstation
 
-First, [hardware information reported by Fedora 26](2018-01-01-Xiaomi-Air12-Hardware.md) 
+First, [hardware information reported by Fedora 26](Xiaomi-Air12-Hardware.html)
